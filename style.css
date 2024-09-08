@@ -140,6 +140,7 @@
 }
 #cakes{
     display: flex;
+    margin-bottom:40px;
 }
 #menu-content{
     margin: 0px 30px;
